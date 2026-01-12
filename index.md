@@ -2,7 +2,7 @@
 ## Overview
 [Luminescent AI](https://luminescentai.com) harnesses physics grounded AI for designing electromagnetic structures in photonics and RF. We offer Lumi FDTD for full wave simulations and inverse design, and Lumi Photonic PDK of inverse designed photonic components.
 
-[!](simulation.gif)
+![](simulation.gif)
 Fig. Inverse designed broadband bidirectional perfectly vertical grating coupler (PVGC) 
 
 ## About
