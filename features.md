@@ -26,4 +26,5 @@
 - Nonlinear, dispersive and anisotropic materials
 
 ![](simulation.gif)
+
 Fig. Inverse designed broadband bidirectional perfectly vertical grating coupler (PVGC) 
