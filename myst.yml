@@ -1,0 +1,26 @@
+version: 1
+project:
+  toc:
+    - file: index.md
+    - title: Lumi FDTD 
+      children:
+        - file: features.md
+        - file: install.md
+        - title: Simulation tutorials
+          children:
+            - file: test_FSS.ipynb
+            - file: test_ring.ipynb
+            - file: test_stub.ipynb
+        - title: Inverse design tutorials
+          children:
+            - file: opt_demux.ipynb
+            - file: opt_PVGC.ipynb
+        - title: Guide
+          children:
+            - file: sim.md
+            - file: opt.md
+    - title: Lumi inverse design PDK (under development)
+      children:
+        - file: pdk.md
+site:
+  template: book-theme
